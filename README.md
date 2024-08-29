@@ -1,15 +1,23 @@
 
 ![WhatsApp Image 2024-08-29 at 17 19 43_1835f9de](https://github.com/user-attachments/assets/363cbba6-ab71-42cd-a74e-6ae1a659f983)
 
-ELK SIEM Home-Lab Setup
+#ELK SIEM Home-Lab Setup
+
 A comprehensive guide to setting up an ELK SIEM home-lab on Parrot OS, designed for cybersecurity enthusiasts and students.
 
 🚀 Key Features
-Comprehensive Security Monitoring: Implement a fully functional SIEM to monitor, detect, and analyze security events.
-Real-Time Analysis: Capture and review logs from various sources in real-time for immediate threat detection.
+
+Comprehensive Security Monitoring:             Implement a fully functional SIEM to monitor, detect, and analyze security events.
+
+Real-Time Analysis:      Capture and review logs from various sources in real-time for immediate threat detection.
+
 Custom Dashboards: Tailor dashboards in Kibana to visualize security data, helping to identify patterns and anomalies.
+
 Scalable Setup: Easily deploy the SIEM lab on a virtual machine or dedicated server.
+
+
 🛠️ Setup
+
 Create an Elastic Account:
 
 Start by creating a free Elastic Cloud account to manage your Elastic Stack deployment.
